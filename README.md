@@ -1,20 +1,20 @@
-# SupplyChain - HLF project :
+# SupplyChain - sourced commodities project :
 
 ## Objective :
 
-In the traditional supply chain models, the information about an entity is not fully transparent to others, which leads to inaccurate reports and a lack of interoperability. Emails and printed documents provide certain information, but still can’t contain fully detailed visibility and traceability information since the products across the entire supply chain are hard to trace. It is almost impossible for the consumer to know the true value of the product they purchased.
-Since the blockchain is a transparent, immutable, and secure decentralized system, it is considered to be a game-changing solution for traditional supply chain industries. It can help to build an effective supply chain system by improving the following areas:
+In the traditional supply chain model, the information about a cargo and its dynamics is not fully transparent to others, which leads to inaccurate reports and a lack of interoperability. Emails and printed documents provide certain information, but still can’t contain fully detailed visibility and traceability information since the products across the entire supply chain are hard to trace. It is almost impossible for a buyer to know
+Since the blockchain is a transparent, immutable, and secure decentralized system, represents a solution for traditional supply chain industries. It can help to build an effective supply chain system by improving the following areas:
 
           * Tracking the products in the entire chain
-          * Verifying and authenticating the products in the chain
+          * Verifying and authenticating the products, cargo and partners in the chain
           * Sharing the entire chain information between supply chain actors 
           * Providing better auditability
 
 ## Use case :
 
 * Farm to fork tracking
-* Diamond tracking
-* High priced goods such as Leather goods , watches , dresses etc.
+* Sourced products quality, transparency 
+* Sourced products such as avocado, cacao, coffee and +100 comodities
 
 ## Components Developed :
 	
